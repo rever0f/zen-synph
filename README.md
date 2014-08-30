@@ -1,7 +1,7 @@
-##zen-illusia
+##zen-synph
 
-when I grow up I want to be a image viewer/comic
-book reader with both vim and emacs keybindings.
+when I grow up I want to be a cross platform
+chorded input device to keyboard and mouse.
 
 I have pretentions of using sdl to be
 crossplatform and maybe one day having a web
@@ -10,23 +10,16 @@ interface.
 ####progress
 (+-todo,.-done)
 
-  - read images+
-      - jpg.
-      - png.
-      - bmp+
-      - gif+
-      - animated gif+
-      - tiff+
+  - read input
+      - keyboard-
+      - mouse+
+      - midi keyboard+
+      - joystick+
   - display+
       - sdl+
       - html/javascript+
       - html5+
   - keybindings+
-      - vim+
-      - emacs+
-  - open files+
-      - cbr+
-      - cbt+
-      - cbz+
-      - zen+
-      - acbf+
+      - config file+
+      - asetniop+
+  - take over global keyboard+
